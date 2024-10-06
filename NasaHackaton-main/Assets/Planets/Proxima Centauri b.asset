@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acb12ab1d4993ae4ba9f88650bd13b1e, type: 3}
+  m_Name: Proxima Centauri b
+  m_EditorClassIdentifier: 
+  PlanetName: Proxima Centauri b
+  Mass: 1.07 Earths
+  Radius: 1.03 x Earth (estimate)
+  OrbitalPeriod: '11.2 days '
+  render: {fileID: 8400000, guid: 49b871b23120d3d4092a1e6b740bab3f, type: 2}
+  description: 'Proxima Centauri b is a super Earth exoplanet that orbits an M-type
+    star. Its discovery was announced in 2016. '
+  atmosphere: Unknown
+  type: Super Earth
+  discoveryMethod: Radial Velocity
